@@ -14,7 +14,7 @@ Do the following tasks using the Perl language:
     - Allow the user to enter another web address
     - Change the address for the original link to the one the user added.
 
-  5) Imagine a **baby language** that has two basic expresssions:
+  5. Imagine a **baby language** that has two basic expresssions:
     - daa!, daaa!, daaaa!.....
     - maa!, maaa!, maaaa!.....
 
