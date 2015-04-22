@@ -18,8 +18,6 @@ Do the following tasks using the Perl language:
     - `daa!, daaa!, daaaa!.....`
     - `maa!, maaa!, maaaa!.....`
 
-Write a Perl program to determine if a given string is in “baby language”.
-
   6. Write a program that will do the following:
     - Load an array with the following elements: `Larry`, `Curly`, `Moe` and `Gertrude`.
     - Write a procedure that will allow a user to enter a full name, and check to see if the first name is found in the array.
